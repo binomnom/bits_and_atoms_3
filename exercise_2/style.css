@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  /* centering the diagram in the viewport */
+  min-height: 66.5rem;
+  display: flex;
+  align-items: top;
+  justify-content: center;
+}
+
+.d3 {
+margin: 2rem;
+width: 100vw;
+}
